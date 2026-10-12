@@ -1,0 +1,18 @@
++----------------------------------------------------------------------------+
+| MERCADO DONA BERE                                                          |
+| MENU PRINCIPAL                                                             |
++----------------------------------------------------------------------------+
+| Usuario: Administrador demonstracao                                        |
+| Perfil: Administrador | Caixa: ABERTO                                      |
++----------------------------------------------------------------------------+
+| 1  Gerenciamento     Cadastros e exclusoes                                 |
+| 2  Vendas            Carrinho, pagamento e sangria                         |
+| 3  Abrir caixa                                                             |
+| 4  Fechar caixa                                                            |
+| 5  Relatorios        Vendas, produtos, clientes e logs                     |
+| 6  Salvar e sair                                                           |
++----------------------------------------------------------------------------+
+| Vendas desta sessao                               R$                 0.00  |
++----------------------------------------------------------------------------+
+
+  Escolha uma opcao:
